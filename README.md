@@ -35,8 +35,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rodrigoaustincascao/rodrigoaustincascao/output/snake.svg" alt="Snake animation" />
-
-###
